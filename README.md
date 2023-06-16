@@ -1,6 +1,6 @@
 <img width="1834" alt="Make your README" src="https://github.com/jusjones2284/jusjones2284/assets/98709555/85c32f22-a07c-4f00-bf9b-e3edb0127554">
 
-<h3 align="center">A passionate Software Engineer from New Orleans</h3>
+<h3 align="center">A passionate Software Engineer from New Orleans who love to travel and experience new food and cultures‼️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusjones2284&label=Profile%20views&color=0e75b6&style=flat" alt="jusjones2284" /> </p>
 
