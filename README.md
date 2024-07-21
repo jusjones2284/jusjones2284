@@ -1,6 +1,10 @@
 <img width="1834" alt="Make your README" src="https://github.com/jusjones2284/jusjones2284/assets/98709555/85c32f22-a07c-4f00-bf9b-e3edb0127554">
 
-<h3 align="center">A passionate Software Engineer from New Orleans who love to travel and experience new food and cultures‼️</h3>
+<h3 align="center">Hello, I'm Justin Jones, a Tax Senior Accountant with a passion for technology and cybersecurity. Currently pursuing a Master's degree in Computer Science with a focus on Cyber Security, I balance full-time work with my academic pursuits.
+
+Since beginning my programming journey in 2019, I've become proficient in Java, Python, and JavaScript. I continuously enhance my skills through platforms like Udemy, AWS, and KodeKloud, leveraging these tools to solve challenges and develop technical solutions.
+
+Feel free to connect for discussions on technology, cybersecurity, or opportunities to collaborate on innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusjones2284&label=Profile%20views&color=0e75b6&style=flat" alt="jusjones2284" /> </p>
 
