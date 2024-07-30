@@ -1,4 +1,3 @@
-<img width="1834" alt="Make your README" src="https://github.com/jusjones2284/jusjones2284/assets/98709555/85c32f22-a07c-4f00-bf9b-e3edb0127554">
 
 <h3 align="center">Hello, I'm Justin Jones, a Tax Senior Accountant with a passion for technology and cybersecurity. Currently pursuing a Master's degree in Computer Science with a focus on Cyber Security, I balance full-time work with my academic pursuits.
 
