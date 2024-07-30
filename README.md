@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello, I'm Justin Jones, a Tax Senior Accountant with a passion for technology and cybersecurity. Currently pursuing a Master's degree in Computer Science with a focus on Cyber Security, I balance full-time work with my academic pursuits.
+<h3 align="center">Hello, I'm Justin Jones, I have a passion for technology and cybersecurity. Currently pursuing a Master's degree in Computer Science with a focus on Cyber Security, I balance full-time work with my academic pursuits.
 
 Since beginning my programming journey in 2019, I've become proficient in Java, Python, and JavaScript. I continuously enhance my skills through platforms like Udemy, AWS, and KodeKloud, leveraging these tools to solve challenges and develop technical solutions.
 
