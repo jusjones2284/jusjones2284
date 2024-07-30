@@ -23,7 +23,7 @@ Feel free to connect for discussions on technology, cybersecurity, or opportunit
 <a href="https://twitter.com/jusmickal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jusmickal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/justin-jones-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin-jones-dev" height="30" width="40" /></a>
 <a href="https://fb.com/justin jones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="justin jones" height="30" width="40" /></a>
-<a href="https://instagram.com/justinmickal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justinmickal" height="30" width="40" /></a>
+</a>
 <a href="https://medium.com/jusjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jusjones" height="30" width="40" /></a>
 </p>
 
